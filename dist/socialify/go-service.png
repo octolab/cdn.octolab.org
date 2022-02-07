@@ -1,0 +1,1 @@
+{"error":"Already initialized. The `initWasm()` function can be used only once.","stack":"Error: Already initialized. The `initWasm()` function can be used only once.\n    at (vc/edge/function:74:6621)\n    at (vc/edge/function:74:6961)\n    at (vc/edge/function:74:7144)\n    at (vc/edge/function:81:14470)\n    at (vc/edge/function:14:16047)"}
